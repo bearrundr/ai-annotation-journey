@@ -1,6 +1,7 @@
 # ai-annotation-journey
 
-This repository documents my learning journey in AI annotation and response evaluation.
-The goal is to understand how annotation quality, reasoning clarity, and evaluation consistency affect AI model performance.
+AI Annotation Journey is a structured exploration of practical annotation work and model response evaluation.
 
-I will gradually add notes, small experiments, and structured reflections as I gain hands-on experience.
+This repository documents observations on annotation quality, reasoning clarity, and evaluation consistency in applied settings.
+
+It serves as a growing record of structured notes, small experiments, and reflections related to AI annotation practices.
